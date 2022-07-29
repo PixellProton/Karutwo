@@ -2,6 +2,19 @@
 
 The clan verification system is designed to aid in adding roles for new clan members. Instead of having to ping a server moderator to give you the clan role, the bot can do it for you.
 
+## Table of Contents
+
+ - [Setup](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#setup)
+ - [Setup Examples](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#setup-examples)
+   - [Simple](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#simple)
+   - [Separate Ranks](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#separate-ranks)
+   - [Common Ranks](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#seperate-ranks)
+   - [No General](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#seperate-ranks)
+   - [Multiclan Combined](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#multiclan-combined)
+   - [Multiclan Complex](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#multiclan-complex)
+   - [Footnote](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#footnote)
+ - [FAQ](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#faq)
+
 ## Setup
 
 You must have the `Manage server` permission to set up **your clan** on the server the command is run in. This means that **multiple shoguns** can set up in a single server. Here are the roles you can set:
@@ -16,7 +29,7 @@ If you use setup in a server that already has your clan setup, it will overwrite
 general_role_1:`@Clan Member`
 > Everyone gets `@Clan Member`
 
-### Seperate Ranks
+### Separate Ranks
 general_role_1:`@Clan Member`, tairo_role:`@Tairo`, roju_role:`@Roju`
 > Everyone gets `@Clan Member`  
 > Tairos get `@Tairo`  
@@ -51,5 +64,5 @@ These are merely a few examples of combinations. You can mix and match combinati
 **Is it possible to have multiple clans in the same server?**
 > Yes. However, only the shoguns must need the `Manage server` permission and can only manage their own clan.
 
-**Is there a limit to how many clans are allowed in the same server?
-> Yes, 8. However, if you need more, please DM me `PixellProton#8577` at or ping me in [https://discord.gg/9r9pczygG8](the support server).
+**Is there a limit to how many clans are allowed in the same server?**
+> Yes, 8. However, if you need more, please DM me `PixellProton#8577` at or ping me in the [support server](https://discord.gg/9r9pczygG8).
