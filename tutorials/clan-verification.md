@@ -13,7 +13,7 @@ The clan verification system is designed to aid in adding roles for new clan mem
    - [Multiclan Combined](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#multiclan-combined)
    - [Multiclan Complex](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#multiclan-complex)
    - [Footnote](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#footnote)
- - [Delete vs. Delete Force](https://github.com/PixellProton/Karutwo/edit/main/tutorials/clan-verification.md#delete-vs-delete-force)
+ - [Delete vs. Delete Force](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#delete-vs-delete-force)
  - [FAQ](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#faq)
 
 ## Setup
