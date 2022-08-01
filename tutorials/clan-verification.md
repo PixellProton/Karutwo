@@ -13,6 +13,7 @@ The clan verification system is designed to aid in adding roles for new clan mem
    - [Multiclan Combined](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#multiclan-combined)
    - [Multiclan Complex](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#multiclan-complex)
    - [Footnote](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#footnote)
+ - [Delete vs. Delete Force](https://github.com/PixellProton/Karutwo/edit/main/tutorials/clan-verification.md#delete-vs-delete-force)
  - [FAQ](https://github.com/PixellProton/Karutwo/blob/main/tutorials/clan-verification.md#faq)
 
 ## Setup
@@ -59,6 +60,10 @@ tairo_role:`@Giveaway Host`, roju_role:`@Giveaway Host`
 ### Footnote
 These are merely a few examples of combinations. You can mix and match combinations. For example Multiclan Complex + Seperate Ranks = general roles follow Multiclan Complex while rank roles follow Seperate Ranks.
 
+## Delete vs. Delete Force
+
+Most of times, you'll only need to use `/clan delete`. Regular delete removes **your** clan verification setup from the server. However, if a shogun deletes their Discord account or refuses to delete their clan from your server, you can force delete their clan. 
+
 ## FAQ
 
 **Is it possible to have multiple clans in the same server?**
@@ -66,3 +71,6 @@ These are merely a few examples of combinations. You can mix and match combinati
 
 **Is there a limit to how many clans are allowed in the same server?**
 > Yes, 8. However, if you need more, please DM me `PixellProton#8577` at or ping me in the [support server](https://discord.gg/9r9pczygG8).
+
+**A shogun in my server refuses to delete their clan, what can I do about it?**
+> If you have the `Manage server` permission, yuo can use `/clan delete-force` to remove their clan. You should also remove the `Manage server` permission from the shogun so they don't setup again.
